@@ -16,7 +16,7 @@ public static void main(String[] args)
        
         
 
-         System.out.println("Oh shittttt nigga, this be a computer program"+((a-b)/c)+" some other number shit"+c); 
+         System.out.println("Oh shittttt, this be a computer program"+((a-b)/c)+" some other number shit"+c); 
 
 }
 
